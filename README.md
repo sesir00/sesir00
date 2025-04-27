@@ -72,8 +72,12 @@
 ## 📫 Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shishir-chapagain-198683226/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://x.com/sesi_rma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/shishir-chapagain-198683226/" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+</a>
+<a href="https://x.com/sesi_rma" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30" />
+</a>
 </p>
 
 ---
