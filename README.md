@@ -77,7 +77,7 @@
 
 ## ✨ Latest Projects
 
-- [🔗 Project 1 Name](project-link)
+- [🔗 MCQ Generator](https://github.com/sesir00/mcq#)
 - [🔗 Project 2 Name](project-link)
 - [🔗 Project 3 Name](project-link)
 
