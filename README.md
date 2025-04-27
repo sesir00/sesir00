@@ -76,8 +76,9 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
 </a>
 <a href="https://x.com/sesi_rma" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="Twitter/X" height="30" width="30" style="background-color: white; border-radius: 50%; padding: 3px; margin-right: 10px;" />
 </a>
+
 </p>
 
 ---
