@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shishir Chapagain</h1>
-<h3 align="center">A passionate .NET Developer and React Enthusiast</h3>
+<h3 align="center">A passionate .NET Developer experienced in React integration and full-stack development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sesir00&label=Profile%20views&color=0e75b6&style=flat" alt="sesir00" />
