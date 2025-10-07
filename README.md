@@ -1,102 +1,100 @@
-<h1 align="center">Hi 👋, I'm Shishir Chapagain</h1>
-<h3 align="center">A passionate .NET Developer experienced in React integration and full-stack development</h3>
+<h1 align="center">👋 Hi, I'm Shishir Chapagain</h1>
+<h3 align="center">.NET Developer | React Enthusiast | Full-Stack Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sesir00&label=Profile%20views&color=0e75b6&style=flat" alt="sesir00" />
+  <img src="https://komarev.com/ghpvc/?username=sesir00&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
-
 ---
-
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **scalable .NET projects**
-- 🌱 I’m currently learning **.NET Architectures and System Design**
-- 💬 Ask me about **.NET, React, Web APIs, and SQL Databases**
-- 📫 How to reach me: **shishir.chapagain.999@gmail.com**
-- ⚡ Fun fact: **I enjoy designing efficient system architectures and solving real-world problems!**
-
+- 🔭 Currently building **scalable full-stack applications using .NET and React**
+- 🌱 Exploring **Clean Architecture, System Design, and Cloud Deployments**
+- 💬 Ask me about **.NET Core, React, Web APIs, SQL Server, and System Architecture**
+- 📫 Reach me at: **shishir.chapagain.999@gmail.com**
+- ⚡ Fun fact: I enjoy **designing efficient, maintainable backend systems** and solving real-world challenges.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Programming & Core Concepts
+### 💻 Core & Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20API-00599C?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/EF%20Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-### ☁️ Backend & APIs
+### 🗄️ Databases & ORM
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20API-00599C?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> </p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
 
 ### 🌐 Frontend
 <p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
 ### 🚀 Eager to Learn
 <p align="left">
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Blazor-5A2B57?style=for-the-badge&logo=blazor&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sesir00&show_icons=true&theme=react&hide_border=true" alt="Shishir's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sesir00&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sesir00&theme=react&hide_border=true" alt="Shishir's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sesir00&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sesir00&langs_count=8&theme=react&hide_border=true" alt="Shishir's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sesir00&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## ✨ Latest Projects
+## 🚧 Featured Projects
 
-- [🔗 MCQ Generator](https://github.com/sesir00/mcq#)
-- [🔗 E-Commerce](https://github.com/sesir00/Intern)
-- [🔗 Property Bidding](https://github.com/sesir00/Property-Bidding)
+| Project | Description | Stack |
+|----------|--------------|--------|
+| [🧠 MCQ Generator](https://github.com/sesir00/mcq) | AI-powered system that generates MCQs from text, with admin and user panels | React, Node.js, Flask, PyTorch |
+| [🛍️ E-Commerce System](https://github.com/sesir00/Intern) | Full-stack .NET project built during internship for product management and sales tracking | ASP.NET, SQL Server, EF Core |
+| [🏠 Property Bidding System](https://github.com/sesir00/Property-Bidding) | Real-time property auction system supporting buyer/seller roles and time-based bidding | ASP.NET Core MVC, EF Core, SignalR |
 
 ---
 
-## 📫 Connect with me:
+## 🤝 Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/shishir-chapagain-198683226/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
-</a>
-  <a href="https://x.com/sesi_rma" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/shishir-chapagain-198683226/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
+  <a href="https://x.com/sesi_rma" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-🔥 Let's build the future together with Scalable Systems and Modern Web Technologies!
----
-
+<h3 align="center">🔥 Building scalable systems with modern web technologies — one project at a time!</h3>
